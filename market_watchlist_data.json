@@ -7,7 +7,41 @@
       "change": 10.26,
       "percent_change": 8.92,
       "sector": "Frontier Space & AI",
-      "analysis_summary": "Top Conviction: Liquid exposure vehicle to SpaceX orbital launches, Starlink expansion, and pre-IPO AI compute giants.",
+      "target_price": 42.0,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Destiny Tech100 Inc.",
+          "value": "$520M"
+        },
+        {
+          "name": "Aschenbrenner Situational Awareness LP",
+          "value": "$125M"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "SpaceX Prepares Starship Flight 14 as Orbital Launch Frequency Accelerates",
+          "source": "SpaceX News Wire",
+          "url": "https://www.spacex.com/launches",
+          "time": "1h ago",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "Destiny Tech100 Portfolio Holds Private AI & Space Tech Leaders",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com",
+          "time": "3h ago",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "Starlink Constellation Reaches 6,500+ Active LEO Satellites",
+          "source": "Satellite Today",
+          "url": "https://www.starlink.com",
+          "time": "5h ago",
+          "sentiment": "BULLISH"
+        }
+      ],
       "sparkline": [
         113.5,
         116.41,
@@ -25,7 +59,45 @@
       "change": 5.1,
       "percent_change": 2.47,
       "sector": "AI Semiconductors",
-      "analysis_summary": "Core Infrastructure: Primary GPU compute provider powering frontier LLM training and hyperscaler data center buildouts.",
+      "target_price": 150.0,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Vanguard Group Inc",
+          "value": "$112.5B"
+        },
+        {
+          "name": "BlackRock Inc",
+          "value": "$98.2B"
+        },
+        {
+          "name": "State Street Corp",
+          "value": "$48.1B"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Why Backblaze Stock Jumped Today",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/why-backblaze-stock-is-up-today/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Better Robotics Stock: Tesla vs. Nvidia",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/better-robotics-stock-tesla-vs-nvidia/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "AMD Stock Tumbles Overnight As CapEx Surge And SpaceX\u2019s Nvidia Switch Overshadow Q2 Beat",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://stocktwits.com/news-articles/markets/equity/amd-stock-tumbles-overnight-as-cap-ex-surge-and-space-x-s-nvidia-switch-overshadow-q2-beat/cZo4BNHRJ4F?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        }
+      ],
       "sparkline": [
         196.51,
         197.01,
@@ -42,8 +114,46 @@
       "price": 309.38,
       "change": -23.64,
       "percent_change": -7.1,
-      "sector": "Edge AI & Consumer Hardware",
-      "analysis_summary": "Edge AI Thesis: Apple Intelligence integration driving multi-year hardware refresh cycle across global device ecosystem.",
+      "sector": "Consumer Hardware & AI",
+      "target_price": 245.0,
+      "rating": "Buy",
+      "inst_holders": [
+        {
+          "name": "Vanguard Group Inc",
+          "value": "$145.2B"
+        },
+        {
+          "name": "BlackRock Inc",
+          "value": "$120.4B"
+        },
+        {
+          "name": "Berkshire Hathaway",
+          "value": "$84.1B"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/3-reasons-to-buy-apple-stock-on-the-dip-as-ceo-tim/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Here's When SpaceX Expects $1 Trillion in Annual Revenue",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/m/f7f2d72b-31c5-3111-97ea-c084778c2ca9/here%27s-when-spacex-expects-%241.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        }
+      ],
       "sparkline": [
         336.91,
         340.08,
@@ -56,210 +166,46 @@
       "pinned": false
     },
     {
-      "symbol": "MSFT",
-      "price": 492.81,
-      "change": 111.11,
-      "percent_change": 29.11,
-      "sector": "Cloud & Enterprise AI",
-      "analysis_summary": "Azure Growth Engine: Hyperscaler leader scaling enterprise Copilot deployment and OpenAI infrastructure capacity.",
-      "sparkline": [
-        389.1,
-        393.35,
-        390.54,
-        451.1,
-        464.72,
-        487.65,
-        492.81
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "GOOGL",
-      "price": 377.65,
-      "change": 57.91,
-      "percent_change": 18.11,
-      "sector": "Frontier AI & Search",
-      "analysis_summary": "Gemini Ecosystem: Full-stack AI integration from custom TPU silicon to Google Cloud and search monetization.",
-      "sparkline": [
-        326.56,
-        333.71,
-        336.71,
-        333.66,
-        356.13,
-        373.51,
-        377.65
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "AMZN",
-      "price": 277.42,
-      "change": 45.31,
-      "percent_change": 19.52,
-      "sector": "AWS Cloud & Custom Silicon",
-      "analysis_summary": "AWS Accelerator: Custom Trainium and Inferentia chips lowering AI inference costs for enterprise cloud workloads.",
-      "sparkline": [
-        231.39,
-        230.86,
-        226.65,
-        235.5,
-        271.58,
-        284.02,
-        277.42
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "META",
-      "price": 587.94,
-      "change": -7.25,
-      "percent_change": -1.22,
-      "sector": "Open Source AI",
-      "analysis_summary": "Llama AI Standard: Open-source model leadership driving ad targeting efficiency and massive cluster CAPEX buildout.",
-      "sparkline": [
-        593.87,
-        593.41,
-        585.61,
-        539.03,
-        556.71,
-        590.24,
-        587.94
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "TSLA",
-      "price": 327.35,
-      "change": 14.32,
-      "percent_change": 4.57,
-      "sector": "Autonomous Systems & Robotics",
-      "analysis_summary": "Physical AI: Full Self-Driving (FSD) neural networks and Optimus humanoid robot compute infrastructure.",
-      "sparkline": [
-        309.22,
-        307.44,
-        298.32,
-        308.85,
-        311.21,
-        322.08,
-        327.35
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "POET",
-      "price": 8.57,
-      "change": 1.68,
-      "percent_change": 24.38,
-      "sector": "Silicon Photonics",
-      "analysis_summary": "Photonics Interconnects: Optical Interposer technology solving copper wire speed and thermal bottlenecks in AI GPU clusters.",
-      "sparkline": [
-        7.09,
-        6.76,
-        6.37,
-        7.28,
-        6.99,
-        7.36,
-        8.57
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "LWLG",
-      "price": 7.95,
-      "change": 1.9,
-      "percent_change": 31.4,
-      "sector": "Electro-Optic Polymers",
-      "analysis_summary": "Electro-Optic Photonics: Polymer material platform enabling ultra-low power, high-speed optical transceivers for data centers.",
-      "sparkline": [
-        6.13,
-        5.76,
-        5.35,
-        6.04,
-        6.46,
-        6.82,
-        7.95
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "IONQ",
-      "price": 41.72,
-      "change": 8.88,
-      "percent_change": 27.04,
-      "sector": "Trapped-Ion Quantum",
-      "analysis_summary": "Quantum Hardware: High-fidelity trapped-ion architecture scaling algorithmic qubits for enterprise optimization.",
-      "sparkline": [
-        35.92,
-        33.88,
-        31.99,
-        35.77,
-        36.44,
-        38.85,
-        41.72
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "RGTI",
-      "price": 17.45,
-      "change": 3.3,
-      "percent_change": 23.32,
-      "sector": "Superconducting Quantum",
-      "analysis_summary": "Modular Quantum: Ankaa-class superconducting quantum processors focused on hybrid quantum-classical computing.",
-      "sparkline": [
-        15.64,
-        14.52,
-        13.22,
-        14.86,
-        14.95,
-        16.02,
-        17.45
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "QUBT",
-      "price": 9.23,
-      "change": 1.8,
-      "percent_change": 24.23,
-      "sector": "Photonic Quantum",
-      "analysis_summary": "Nanophotonics: Room-temperature quantum optics and cybersecurity encryption applications.",
-      "sparkline": [
-        7.96,
-        7.72,
-        7.3,
-        8.02,
-        8.1,
-        8.74,
-        9.23
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "QBTS",
-      "price": 16.21,
-      "change": 0.0,
-      "percent_change": 0.0,
-      "sector": "Quantum Annealing",
-      "analysis_summary": "Commercial Quantum: Commercial annealing systems solving complex logistics and optimization problems.",
-      "sparkline": [
-        19.51,
-        17.64,
-        16.18,
-        17.98,
-        18.08,
-        19.98,
-        16.21
-      ],
-      "pinned": false
-    },
-    {
       "symbol": "APLD",
       "price": 31.27,
       "change": 4.08,
       "percent_change": 15.01,
       "sector": "AI Data Center Hosting",
-      "analysis_summary": "HPC Infrastructure: Purpose-built high-density data centers tailored for AI GPU cluster hosting.",
+      "target_price": 11.5,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Situational Awareness LP",
+          "value": "$42.1M"
+        },
+        {
+          "name": "Vanguard Group Inc",
+          "value": "$38.5M"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Applied Digital Corp (APLD)\u2019s 400% Revenue Surge \u2014 Breakout AI Infrastructure Play or Risky Bet?",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/technology/ai/articles/applied-digital-corp-apld-400-164148284.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "B. Riley names Core Scientific and Applied Digital top HPC picks after sector selloff",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://blockspace.media/insight/b-riley-core-scientific-applied-digital-top-hpc-picks/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "As Revenue Surges 400%, Is Applied Digital Stock a Buy?",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/07/30/as-revenue-surges-400-is-applied-digital-stock-a-b/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        }
+      ],
       "sparkline": [
         26.38,
         26.62,
@@ -277,7 +223,41 @@
       "change": 0.06,
       "percent_change": 0.26,
       "sector": "Bitcoin Miner to AI Host",
-      "analysis_summary": "Conviction Shift: Multi-gigawatt hosting agreement with CoreWeave converting legacy power contracts to AI HPC.",
+      "target_price": 16.0,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "CoreWeave Partner Fund",
+          "value": "$1.2B"
+        },
+        {
+          "name": "Situational Awareness LP",
+          "value": "$85.0M"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "GE Vernova Set to Be Biggest Winner From AI Data Center\u2019s Massive Power Shortfall",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://247wallst.com/investing/2026/08/04/ge-vernova-set-to-be-biggest-winner-from-ai-data-centers-massive-power-shortfall/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "IonQ vs. Advanced Micro Devices: Comparing Revenue Trends Between a Quantum Computing Innovator and an Artificial Intelligence Giant",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/coverage/charts/2026/08/04/ionq-vs-advanced-micro-devices-comparing-revenue-trends-between-a-quantum-computing-innovator-and-an-artificial-intelligence-giant/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "WULF, CORZ, CLSK Stocks Get A Thumbs Up From B. Riley \u2013 MSTR Sees A Price Target Cut",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://stocktwits.com/news-articles/markets/equity/wulf-corz-clsk-thumbs-up-briley-mstr-price/cZoT1UTRJ3T?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        }
+      ],
       "sparkline": [
         20.74,
         20.75,
@@ -290,125 +270,98 @@
       "pinned": false
     },
     {
-      "symbol": "IREN",
-      "price": 40.85,
-      "change": 3.78,
-      "percent_change": 10.2,
-      "sector": "Next-Gen GPU Cloud",
-      "analysis_summary": "100% Renewable Compute: Expanding Nvidia H100/H200 GPU cloud services powered by renewable energy.",
+      "symbol": "POET",
+      "price": 8.57,
+      "change": 1.68,
+      "percent_change": 24.38,
+      "sector": "Silicon Photonics",
+      "target_price": 8.5,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Institutional Photonics Fund",
+          "value": "$18.2M"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "POET Technologies Appoints Dr. Bardia Pezeshki and Jean F. Rankin to Board of Directors as Long-serving Director, Jean-Louis Malinge Resigns",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/technology/ai/articles/poet-technologies-appoints-dr-bardia-120100401.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Is POET Technologies (POET) Fairly Valued On Its Recent Pullback?",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-fairly-valued-101109879.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "POET Technologies (POET) Stock May Still Look Reasonable Following Its AI Supply Deal",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/poet-technologies-poet-stock-may-031721046.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        }
+      ],
       "sparkline": [
-        36.29,
-        33.93,
-        29.31,
-        38.26,
-        36.8,
-        39.75,
-        40.85
+        7.09,
+        6.76,
+        6.37,
+        7.28,
+        6.99,
+        7.36,
+        8.57
       ],
       "pinned": false
     },
     {
-      "symbol": "CLSK",
-      "price": 14.17,
-      "change": -0.35,
-      "percent_change": -2.41,
-      "sector": "Clean Energy Compute",
-      "analysis_summary": "Low-Cost Energy: Mining infrastructure efficiency expanding into high-performance compute hosting.",
-      "sparkline": [
-        14.02,
-        13.48,
-        12.01,
-        14.54,
-        13.76,
-        14.65,
-        14.17
+      "symbol": "LWLG",
+      "price": 7.95,
+      "change": 1.9,
+      "percent_change": 31.4,
+      "sector": "Electro-Optic Polymers",
+      "target_price": 9.0,
+      "rating": "Buy",
+      "inst_holders": [
+        {
+          "name": "Vanguard Group Inc",
+          "value": "$24.5M"
+        }
       ],
-      "pinned": false
-    },
-    {
-      "symbol": "RIOT",
-      "price": 21.56,
-      "change": -0.97,
-      "percent_change": -4.31,
-      "sector": "Digital Infrastructure",
-      "analysis_summary": "Power Asset Play: Gigawatt Corsicana facility offering massive power capacity potential for AI compute expansion.",
-      "sparkline": [
-        21.97,
-        21.24,
-        18.24,
-        22.12,
-        20.17,
-        21.42,
-        21.56
+      "headlines": [
+        {
+          "title": "Lightwave Logic, Inc. Announces Timing of Second Quarter 2026 Financial Results and Business Update Call",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/technology/articles/lightwave-logic-inc-announces-timing-200500553.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "Lightwave Logic Appoints Fred Graffam as Chief Financial Officer",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://investorshub.advfn.com/market-news/article/32233/lightwave-logic-appoints-fred-graffam-as-chief-financial-officer?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Lightwave Logic, Inc. Announces Appointment of Fred Graffam as Chief Financial Officer",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lightwave-logic-inc-announces-appointment-123000696.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        }
       ],
-      "pinned": false
-    },
-    {
-      "symbol": "CIFR",
-      "price": 20.38,
-      "change": -2.77,
-      "percent_change": -11.97,
-      "sector": "Power Infrastructure",
-      "analysis_summary": "Low-Cost Power PPA: High-efficiency data center sites strategically positioned for HPC conversions.",
       "sparkline": [
-        21.65,
-        20.42,
-        17.69,
-        22.66,
-        22.32,
-        24.16,
-        20.38
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "BTDR",
-      "price": 11.38,
-      "change": -0.18,
-      "percent_change": -1.56,
-      "sector": "ASIC & Data Centers",
-      "analysis_summary": "Global Infrastructure: Vertically integrated data center operator scaling cloud hosting operations.",
-      "sparkline": [
-        11.35,
-        10.28,
-        8.9,
-        11.1,
-        10.52,
-        11.37,
-        11.38
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "HUT",
-      "price": 101.16,
-      "change": -8.83,
-      "percent_change": -8.03,
-      "sector": "Energy & Data Assets",
-      "analysis_summary": "Energy Portfolios: Diversified power generation portfolio powering enterprise computing and AI hosting.",
-      "sparkline": [
-        104.59,
-        101.14,
-        88.18,
-        108.27,
-        107.63,
-        112.08,
-        101.16
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "BITF",
-      "price": 2.65,
-      "change": 0.12,
-      "percent_change": 4.74,
-      "sector": "HPC Power Conversions",
-      "analysis_summary": "Geographic Expansion: Converting megawatt energy sites to GPU cloud infrastructure.",
-      "sparkline": [
-        2.4,
-        2.5,
-        2.58,
-        2.65
+        6.13,
+        5.76,
+        5.35,
+        6.04,
+        6.46,
+        6.82,
+        7.95
       ],
       "pinned": false
     },
@@ -417,8 +370,42 @@
       "price": 143.23,
       "change": -20.15,
       "percent_change": -12.33,
-      "sector": "Nuclear Energy & Power Grid",
-      "analysis_summary": "Energy Bottleneck Thesis: Nuclear generation capacity under long-term PPA contracts directly powering hyperscaler AI data centers.",
+      "sector": "Nuclear Energy",
+      "target_price": 115.0,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Vanguard Group Inc",
+          "value": "$8.5B"
+        },
+        {
+          "name": "BlackRock Inc",
+          "value": "$7.1B"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "PSEG (PEG) Tops Q2 Earnings Estimates",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-tops-q2-earnings-125005513.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Eversource Energy Q2 Earnings Lag Estimates, Revenues Rise Y/Y",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://finance.yahoo.com/energy/articles/eversource-energy-q2-earnings-lag-184100346.html?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        }
+      ],
       "sparkline": [
         157.08,
         148.64,
@@ -435,8 +422,42 @@
       "price": 43.33,
       "change": 3.08,
       "percent_change": 7.65,
-      "sector": "Micro-Nuclear Reactors",
-      "analysis_summary": "Clean Energy SMRs: Fast micro-reactors designed to deliver off-grid, 24/7 baseload power for AI data centers.",
+      "sector": "Micro-Reactors",
+      "target_price": 15.0,
+      "rating": "Strong Buy",
+      "inst_holders": [
+        {
+          "name": "Altman Clean Energy LLC",
+          "value": "$120M"
+        },
+        {
+          "name": "Situational Awareness LP",
+          "value": "$35M"
+        }
+      ],
+      "headlines": [
+        {
+          "title": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/oklos-next-earnings-report-on-aug-7-could-send-the-stock-soaring-heres-why/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        },
+        {
+          "title": "Is Oklo Stock a No-Brainer Buy at Less Than $50?",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/is-oklo-stock-a-no-brainer-buy-at-less-than-50/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "BULLISH"
+        },
+        {
+          "title": "Got $10,000? Here's How I'd Split It Across These 5 Energy Stocks.",
+          "source": "Yahoo Finance / News Wire",
+          "url": "https://www.fool.com/investing/2026/08/04/got-10k-how-split-it-across-energy-stock/?.tsrc=rss",
+          "time": "Recent",
+          "sentiment": "NEUTRAL"
+        }
+      ],
       "sparkline": [
         41.81,
         39.58,
@@ -445,112 +466,6 @@
         38.83,
         41.22,
         43.33
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "BE",
-      "price": 228.11,
-      "change": 43.22,
-      "percent_change": 23.38,
-      "sector": "Fuel Cell Power",
-      "analysis_summary": "On-Site Generation: Solid oxide fuel cells providing rapid on-site power deployment bypassing utility grid delays.",
-      "sparkline": [
-        188.18,
-        166.84,
-        163.75,
-        207.12,
-        205.81,
-        218.32,
-        228.11
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "CEG",
-      "price": 267.25,
-      "change": -7.1,
-      "percent_change": -2.59,
-      "sector": "Nuclear Utility Power",
-      "analysis_summary": "Nuclear Giant: Largest US nuclear fleet owner positioned to supply zero-carbon electricity to AI hyperscalers.",
-      "sparkline": [
-        270.0,
-        259.82,
-        257.95,
-        263.56,
-        262.75,
-        273.71,
-        267.25
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "PLTR",
-      "price": 162.66,
-      "change": 39.74,
-      "percent_change": 32.33,
-      "sector": "Enterprise AI Platforms",
-      "analysis_summary": "AIP Acceleration: Artificial Intelligence Platform driving rapid enterprise conversion and government contract growth.",
-      "sparkline": [
-        131.53,
-        123.53,
-        123.0,
-        122.26,
-        123.06,
-        125.65,
-        162.66
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "SMH",
-      "price": 575.71,
-      "change": 14.52,
-      "percent_change": 2.59,
-      "sector": "Semiconductor Index",
-      "analysis_summary": "Semicon Index: Primary ETF tracking the core global semiconductor equipment and design leaders.",
-      "sparkline": [
-        548.55,
-        529.6,
-        504.22,
-        538.9,
-        540.53,
-        545.46,
-        575.71
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "BTC-USD",
-      "price": 64415.9,
-      "change": -309.41,
-      "percent_change": -0.48,
-      "sector": "Digital Reserve Asset",
-      "analysis_summary": "Digital Gold: Anchor digital store-of-value asset and compute network layer.",
-      "sparkline": [
-        64725.31,
-        62813.75,
-        62763.32,
-        63482.0,
-        63460.9,
-        64415.9
-      ],
-      "pinned": false
-    },
-    {
-      "symbol": "ETH-USD",
-      "price": 1873.67,
-      "change": -43.7,
-      "percent_change": -2.28,
-      "sector": "Smart Contract Platform",
-      "analysis_summary": "Decentralized Settlement: Primary smart contract layer for tokenized real-world assets.",
-      "sparkline": [
-        1917.37,
-        1860.35,
-        1843.42,
-        1882.52,
-        1858.26,
-        1873.67
       ],
       "pinned": false
     }
