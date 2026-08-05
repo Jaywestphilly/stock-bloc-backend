@@ -26,10 +26,13 @@ jobs:
       - name: Run Dyson Swarm Fetcher
         run: python fetch_dyson.py
 
+      - name: Run Intel Feed Fetcher
+        run: python fetch_intel_feed.py
+
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sec_intel_data.json market_watchlist_data.json dyson_swarm_data.json
-          git commit -m "Auto-update SEC, Market & Dyson data [skip ci]" || exit 0
+          git add sec_intel_data.json market_watchlist_data.json dyson_swarm_data.json intel_news_feed.json
+          git commit -m "Auto-update SEC, Market, Dyson & Intel data [skip ci]" || exit 0
           git push
