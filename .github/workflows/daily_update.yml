@@ -1,12 +1,12 @@
-name: Daily SEC Intel Update
+name: Daily SEC & Market Intel Update
 
 on:
   schedule:
     - cron: '0 0 * * *' # Automatically runs every night at midnight UTC
-  workflow_dispatch: # Allows you to manually trigger it anytime from GitHub
+  workflow_dispatch: # Allows manual triggers anytime
 
 jobs:
-  update-sec-data:
+  update-all-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -17,13 +17,19 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install Market Dependencies
+        run: pip install yfinance
+
       - name: Run SEC Fetcher
         run: python fetch_sec.py
+
+      - name: Run Market Fetcher
+        run: python fetch_market.py
 
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add sec_intel_data.json
-          git commit -m "Auto-update SEC data [skip ci]" || exit 0
+          git add sec_intel_data.json market_watchlist_data.json
+          git commit -m "Auto-update SEC & Market data [skip ci]" || exit 0
           git push
