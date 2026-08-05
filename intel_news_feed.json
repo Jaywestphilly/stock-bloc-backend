@@ -2,20 +2,28 @@
   "updated_at": "2026-08-05",
   "intel_feed": [
     {
-      "video_id": "official_stock_bloc_1",
+      "video_id": "m16T21XkbHE",
       "title": "The Stock Bloc: Quant Wealth Matrix & Market Intelligence Update",
       "channel_name": "The Stock Bloc (Official)",
       "published": "2026-08-05",
-      "embed_url": "https://www.youtube.com/embed/official_stock_bloc_1",
-      "watch_url": "https://www.youtube.com/watch?v=official_stock_bloc_1"
+      "embed_url": "https://www.youtube.com/embed/m16T21XkbHE",
+      "watch_url": "https://www.youtube.com/watch?v=m16T21XkbHE"
     },
     {
-      "video_id": "innermost_loop_aug3",
-      "title": "Welcome to August 3, 2026 - The Innermost Loop with Dr. Alex Wissner-Gross (@alexwg)",
+      "video_id": "x4mg1JAYHsA",
+      "title": "Welcome to August 4, 2026",
       "channel_name": "Dr. Alexander Wissner-Gross (@alexwg)",
-      "published": "2026-08-03",
-      "embed_url": "https://www.youtube.com/embed/innermost_loop_aug3",
-      "watch_url": "https://www.youtube.com/watch?v=innermost_loop_aug3"
+      "published": "2026-08-05",
+      "embed_url": "https://www.youtube.com/embed/x4mg1JAYHsA",
+      "watch_url": "https://www.youtube.com/watch?v=x4mg1JAYHsA"
+    },
+    {
+      "video_id": "zKVspmKYYkY",
+      "title": "Because We're Americans and We Can Accomplish That",
+      "channel_name": "Peter Diamandis (Moonshots)",
+      "published": "2026-08-04",
+      "embed_url": "https://www.youtube.com/embed/zKVspmKYYkY",
+      "watch_url": "https://www.youtube.com/watch?v=zKVspmKYYkY"
     }
   ]
 }
