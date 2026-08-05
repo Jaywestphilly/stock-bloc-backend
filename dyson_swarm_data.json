@@ -1,0 +1,38 @@
+{
+  "updated_at": "2026-08-05",
+  "fleet_metrics": {
+    "starlink_active": "6,520+ Active Satellites",
+    "photovoltaic_capacity": "18.4 GW Solar Harvest",
+    "planet_labs_fleet": "240+ Active Imaging Sats",
+    "next_launch_title": "Starship Flight 14 (Starship V3 Orbital Manifest)"
+  },
+  "upcoming_launches": [
+    {
+      "name": "Starship Flight 14 (Starship V3 Orbital Manifest)",
+      "provider": "SpaceX",
+      "net_launch_time": "2026-08-14T14:30:00Z",
+      "location": "Starbase, Boca Chica, TX",
+      "status": "Go for Launch / Reminders Active",
+      "description": "Full-scale Starship V3 orbital velocity test flight with in-space propellant transfer demonstration.",
+      "stream_url": "https://www.spacex.com/launches"
+    },
+    {
+      "name": "Starlink Group 10-15 (60 V2 Mini Satellites)",
+      "provider": "SpaceX",
+      "net_launch_time": "2026-08-08T03:15:00Z",
+      "location": "SLC-40, Cape Canaveral Space Force Station, FL",
+      "status": "Confirmed Launch Window",
+      "description": "Falcon 9 deployment of 60 Starlink V2 Mini satellites with Direct to Cell capability.",
+      "stream_url": "https://www.starlink.com"
+    },
+    {
+      "name": "Planet Labs Pelican Constellation Deployment",
+      "provider": "Planet Labs / SpaceX",
+      "net_launch_time": "2026-08-20T18:00:00Z",
+      "location": "Vandenberg Space Force Base, CA",
+      "status": "Scheduled",
+      "description": "Next-gen Pelican Earth-imaging constellation satellites providing high-resolution daily landmass scans.",
+      "stream_url": "https://www.planet.com"
+    }
+  ]
+}
