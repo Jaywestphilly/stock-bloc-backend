@@ -1,131 +1,38 @@
-import json
-import urllib.request
-
-HEADERS = {'User-Agent': 'StockBloc/1.0 (contact@stock-bloc.com)'}
-
-
-def main():
-  # Real SpaceX Q2 2026 Earnings & Dyson Swarm Photo Stories
-  output = {
-      'updated_at': '2026-08-05',
-      'fleet_metrics': {
-          'starlink_active': '6,520+ Active Satellites',
-          'photovoltaic_capacity': '18.4 GW Solar Harvest',
-          'q2_revenue': '$7.81B Q2 Revenue (+92% YoY)',
-          'ai_compute_revenue': '$2.56B AI Compute Hosting',
-      },
-      'dyson_stories': [
-          {
-              'id': 'starship-v3-launch',
-              'title': (
-                  'Starship V3 Full-Stack Orbital Launch Cadence Accelerates'
-              ),
-              'category': 'Launch Telemetry',
-              'date': 'Aug 5, 2026',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1200'
-              ),
-              'story_summary': (
-                  'SpaceX Starbase operations reach a record launch pace as'
-                  ' Starship V3 scales payload capacity to 150+ metric tons.'
-                  ' This enables rapid deployment of next-gen Starlink V2'
-                  ' Mini and Direct-to-Cell satellite clusters.'
-              ),
-              'stat_callout': '150+ Ton Payload Capacity',
-          },
-          {
-              'id': 'spacex-q2-earnings',
-              'title': (
-                  'SpaceX Q2 Earnings: Revenue Surges 92% YoY to $7.81B Driven'
-                  ' by Starlink & AI Compute'
-              ),
-              'category': 'Q2 2026 Financials',
-              'date': 'Aug 4, 2026',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200'
-              ),
-              'story_summary': (
-                  'In its Q2 earnings release, SpaceX reported $7.81B in'
-                  ' revenue (+92% YoY), beating Wall Street predictions of'
-                  ' $6.93B. AI compute hosting revenue generated $2.56B, with'
-                  ' $18.37B invested in Starbase infrastructure and orbital'
-                  ' constellation CapEx.'
-              ),
-              'stat_callout': '$7.81B Revenue (+92% YoY)',
-          },
-          {
-              'id': 'orbital-velocity-reentry',
-              'title': (
-                  'In-Space Engine Relight & Precision Re-Entry Mechanics'
-              ),
-              'category': 'Orbital Mechanics',
-              'date': 'Aug 3, 2026',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1200'
-              ),
-              'story_summary': (
-                  'Live telemetry confirmed successful in-space Raptor engine'
-                  ' relight and controlled atmospheric re-entry over the'
-                  ' Indian Ocean. Thermal protection heat shield tiles'
-                  ' demonstrated 99.4% structural integrity.'
-              ),
-              'stat_callout': '99.4% Heat Shield Integrity',
-          },
-          {
-              'id': 'starship-ocean-landing',
-              'title': 'Controlled Soft Ocean Touchdown & Precision Flip Burn',
-              'category': 'Precision Recovery',
-              'date': 'Jul 30, 2026',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?q=80&w=1200'
-              ),
-              'story_summary': (
-                  'Starship executed its bellyflop maneuver and precision three-engine'
-                  ' landing burn, achieving a controlled vertical soft splashdown'
-                  ' within 10 meters of the target coordinate.'
-              ),
-              'stat_callout': '< 10m Target Accuracy',
-          },
-      ],
-      'upcoming_launches': [
-          {
-              'name': 'Starship Flight 14 (Starship V3 Orbital Manifest)',
-              'provider': 'SpaceX',
-              'net_launch_time': '2026-08-14T14:30:00Z',
-              'location': 'Starbase, Boca Chica, TX',
-              'status': 'Go for Launch',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=1000'
-              ),
-              'description': (
-                  'Full-scale Starship V3 orbital velocity test flight with'
-                  ' in-space propellant transfer demonstration.'
-              ),
-              'stream_url': 'https://www.spacex.com/launches',
-          },
-          {
-              'name': 'Starlink Group 10-15 (60 V2 Mini Satellites)',
-              'provider': 'SpaceX',
-              'net_launch_time': '2026-08-08T03:15:00Z',
-              'location': 'SLC-40, Cape Canaveral Space Force Station, FL',
-              'status': 'Confirmed Launch Window',
-              'image_url': (
-                  'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000'
-              ),
-              'description': (
-                  'Falcon 9 deployment of 60 Starlink V2 Mini satellites with'
-                  ' Direct to Cell capability.'
-              ),
-              'stream_url': 'https://www.starlink.com',
-          },
-      ],
-  }
-
-  with open('dyson_swarm_data.json', 'w') as f:
-    json.dump(output, f, indent=2)
-
-  print('Successfully saved dyson_swarm_data.json with full Starship stories!')
-
-
-if __name__ == '__main__':
-  main()
+{
+  "updated_at": "2026-08-05",
+  "fleet_metrics": {
+    "starlink_active": "6,520+ Active Satellites",
+    "photovoltaic_capacity": "18.4 GW Solar Harvest",
+    "planet_labs_fleet": "240+ Active Imaging Sats",
+    "next_launch_title": "Starship Flight 14 (Starship V3 Orbital Manifest)"
+  },
+  "upcoming_launches": [
+    {
+      "name": "Starship Flight 14 (Starship V3 Orbital Manifest)",
+      "provider": "SpaceX",
+      "net_launch_time": "2026-08-14T14:30:00Z",
+      "location": "Starbase, Boca Chica, TX",
+      "status": "Go for Launch / Reminders Active",
+      "description": "Full-scale Starship V3 orbital velocity test flight with in-space propellant transfer demonstration.",
+      "stream_url": "https://www.spacex.com/launches"
+    },
+    {
+      "name": "Starlink Group 10-15 (60 V2 Mini Satellites)",
+      "provider": "SpaceX",
+      "net_launch_time": "2026-08-08T03:15:00Z",
+      "location": "SLC-40, Cape Canaveral Space Force Station, FL",
+      "status": "Confirmed Launch Window",
+      "description": "Falcon 9 deployment of 60 Starlink V2 Mini satellites with Direct to Cell capability.",
+      "stream_url": "https://www.starlink.com"
+    },
+    {
+      "name": "Planet Labs Pelican Constellation Deployment",
+      "provider": "Planet Labs / SpaceX",
+      "net_launch_time": "2026-08-20T18:00:00Z",
+      "location": "Vandenberg Space Force Base, CA",
+      "status": "Scheduled",
+      "description": "Next-gen Pelican Earth-imaging constellation satellites providing high-resolution daily landmass scans.",
+      "stream_url": "https://www.planet.com"
+    }
+  ]
+}
