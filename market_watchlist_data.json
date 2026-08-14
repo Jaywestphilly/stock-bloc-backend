@@ -3,234 +3,234 @@
   "watchlist": [
     {
       "symbol": "SPCX",
-      "price": 146.15,
-      "change": 31.62,
-      "percent_change": 27.61,
+      "price": 141.29,
+      "change": 15.96,
+      "percent_change": 12.73,
       "sector": "Frontier Space & AI",
       "analysis_summary": "Top Conviction: Liquid exposure vehicle to SpaceX orbital launches, Starlink expansion, and pre-IPO AI compute giants.",
       "sparkline": [
-        125.33,
         108.27,
         114.92,
         133.11,
         138.74,
         133.29,
-        146.15
+        146.15,
+        141.29
       ],
       "pinned": true
     },
     {
       "symbol": "NVDA",
-      "price": 224.09,
-      "change": 17.45,
-      "percent_change": 8.44,
+      "price": 225.3,
+      "change": 13.36,
+      "percent_change": 6.3,
       "sector": "AI Semiconductors",
       "analysis_summary": "Core Infrastructure: Primary GPU compute provider powering frontier LLM training and hyperscaler data center buildouts.",
       "sparkline": [
-        211.94,
         219.22,
         218.99,
         223.96,
         217.55,
         217.5,
-        224.09
+        224.09,
+        225.3
       ],
       "pinned": false
     },
     {
       "symbol": "AAPL",
-      "price": 302.25,
-      "change": -1.17,
-      "percent_change": -0.39,
+      "price": 305.26,
+      "change": -4.12,
+      "percent_change": -1.33,
       "sector": "Edge AI & Consumer Hardware",
       "analysis_summary": "Edge AI Thesis: Apple Intelligence integration driving multi-year hardware refresh cycle across global device ecosystem.",
       "sparkline": [
-        309.38,
         311.0,
         312.41,
         313.33,
         308.26,
         304.91,
-        302.25
+        302.25,
+        305.26
       ],
       "pinned": false
     },
     {
       "symbol": "MSFT",
-      "price": 492.43,
-      "change": 4.78,
-      "percent_change": 0.98,
+      "price": 496.88,
+      "change": 4.07,
+      "percent_change": 0.83,
       "sector": "Cloud & Enterprise AI",
       "analysis_summary": "Azure Growth Engine: Hyperscaler leader scaling enterprise Copilot deployment and OpenAI infrastructure capacity.",
       "sparkline": [
-        492.81,
         487.46,
         499.86,
         499.99,
         506.06,
         503.81,
-        492.43
+        492.43,
+        496.88
       ],
       "pinned": false
     },
     {
       "symbol": "GOOGL",
-      "price": 343.54,
-      "change": -29.97,
-      "percent_change": -8.02,
+      "price": 346.36,
+      "change": -31.29,
+      "percent_change": -8.29,
       "sector": "Frontier AI & Search",
       "analysis_summary": "Gemini Ecosystem: Full-stack AI integration from custom TPU silicon to Google Cloud and search monetization.",
       "sparkline": [
-        377.65,
         362.43,
         357.75,
         354.3,
         357.52,
         343.8,
-        343.54
+        343.54,
+        346.36
       ],
       "pinned": false
     },
     {
       "symbol": "AMZN",
-      "price": 267.28,
-      "change": -16.74,
-      "percent_change": -5.89,
+      "price": 265.13,
+      "change": -12.29,
+      "percent_change": -4.43,
       "sector": "AWS Cloud & Custom Silicon",
       "analysis_summary": "AWS Accelerator: Custom Trainium and Inferentia chips lowering AI inference costs for enterprise cloud workloads.",
       "sparkline": [
-        277.42,
         272.65,
         272.26,
         274.48,
         278.09,
         272.27,
-        267.28
+        267.28,
+        265.13
       ],
       "pinned": false
     },
     {
       "symbol": "META",
-      "price": 578.85,
-      "change": -11.39,
-      "percent_change": -1.93,
+      "price": 594.97,
+      "change": 7.03,
+      "percent_change": 1.2,
       "sector": "Open Source AI",
       "analysis_summary": "Llama AI Standard: Open-source model leadership driving ad targeting efficiency and massive cluster CAPEX buildout.",
       "sparkline": [
-        587.94,
         588.77,
         589.9,
         592.1,
         594.92,
         599.12,
-        578.85
+        578.85,
+        594.97
       ],
       "pinned": false
     },
     {
       "symbol": "TSLA",
-      "price": 327.51,
-      "change": 5.43,
-      "percent_change": 1.69,
+      "price": 339.96,
+      "change": 12.61,
+      "percent_change": 3.85,
       "sector": "Autonomous Systems & Robotics",
       "analysis_summary": "Physical AI: Full Self-Driving (FSD) neural networks and Optimus humanoid robot compute infrastructure.",
       "sparkline": [
-        327.35,
         321.55,
         319.53,
         328.58,
         330.88,
         332.81,
-        327.51
+        327.51,
+        339.96
       ],
       "pinned": false
     },
     {
       "symbol": "POET",
-      "price": 8.87,
-      "change": 1.51,
-      "percent_change": 20.52,
+      "price": 8.91,
+      "change": 0.34,
+      "percent_change": 3.97,
       "sector": "Silicon Photonics",
       "analysis_summary": "Photonics Interconnects: Optical Interposer technology solving copper wire speed and thermal bottlenecks in AI GPU clusters.",
       "sparkline": [
-        8.57,
         8.09,
         8.53,
         8.91,
         8.56,
         8.59,
-        8.87
+        8.87,
+        8.91
       ],
       "pinned": false
     },
     {
       "symbol": "LWLG",
-      "price": 8.01,
-      "change": 1.19,
-      "percent_change": 17.45,
+      "price": 7.29,
+      "change": -0.66,
+      "percent_change": -8.3,
       "sector": "Electro-Optic Polymers",
       "analysis_summary": "Electro-Optic Photonics: Polymer material platform enabling ultra-low power, high-speed optical transceivers for data centers.",
       "sparkline": [
-        7.95,
         7.27,
         7.59,
         8.11,
         7.61,
         7.56,
-        8.01
+        8.01,
+        7.29
       ],
       "pinned": false
     },
     {
       "symbol": "IONQ",
-      "price": 45.2,
-      "change": 6.35,
-      "percent_change": 16.34,
+      "price": 44.98,
+      "change": 3.26,
+      "percent_change": 7.81,
       "sector": "Trapped-Ion Quantum",
       "analysis_summary": "Quantum Hardware: High-fidelity trapped-ion architecture scaling algorithmic qubits for enterprise optimization.",
       "sparkline": [
-        41.72,
         39.93,
         39.72,
         44.43,
         42.53,
         43.44,
-        45.2
+        45.2,
+        44.98
       ],
       "pinned": false
     },
     {
       "symbol": "RGTI",
-      "price": 18.42,
-      "change": 2.4,
-      "percent_change": 14.98,
+      "price": 18.62,
+      "change": 1.17,
+      "percent_change": 6.7,
       "sector": "Superconducting Quantum",
       "analysis_summary": "Modular Quantum: Ankaa-class superconducting quantum processors focused on hybrid quantum-classical computing.",
       "sparkline": [
-        17.45,
         16.78,
         16.53,
         17.94,
         17.65,
         18.09,
-        18.42
+        18.42,
+        18.62
       ],
       "pinned": false
     },
     {
       "symbol": "QUBT",
       "price": 8.92,
-      "change": 0.18,
-      "percent_change": 2.06,
+      "change": -0.31,
+      "percent_change": -3.36,
       "sector": "Photonic Quantum",
       "analysis_summary": "Nanophotonics: Room-temperature quantum optics and cybersecurity encryption applications.",
       "sparkline": [
-        9.23,
         8.88,
         8.77,
         9.18,
         8.93,
         8.95,
+        8.92,
         8.92
       ],
       "pinned": false
@@ -238,162 +238,162 @@
     {
       "symbol": "QBTS",
       "price": 16.21,
-      "change": -3.77,
-      "percent_change": -18.87,
+      "change": -5.62,
+      "percent_change": -25.74,
       "sector": "Quantum Annealing",
       "analysis_summary": "Commercial Quantum: Commercial annealing systems solving complex logistics and optimization problems.",
       "sparkline": [
-        21.83,
         21.39,
         19.41,
         20.76,
         20.19,
         20.23,
+        20.74,
         16.21
       ],
       "pinned": false
     },
     {
       "symbol": "APLD",
-      "price": 31.15,
-      "change": 1.66,
-      "percent_change": 5.63,
+      "price": 30.62,
+      "change": -0.65,
+      "percent_change": -2.08,
       "sector": "AI Data Center Hosting",
       "analysis_summary": "HPC Infrastructure: Purpose-built high-density data centers tailored for AI GPU cluster hosting.",
       "sparkline": [
-        31.27,
         29.87,
         28.86,
         29.22,
         29.06,
         29.69,
-        31.15
+        31.15,
+        30.62
       ],
       "pinned": false
     },
     {
       "symbol": "CORZ",
-      "price": 20.87,
-      "change": -1.96,
-      "percent_change": -8.59,
+      "price": 19.78,
+      "change": -3.03,
+      "percent_change": -13.28,
       "sector": "Bitcoin Miner to AI Host",
       "analysis_summary": "Conviction Shift: Multi-gigawatt hosting agreement with CoreWeave converting legacy power contracts to AI HPC.",
       "sparkline": [
-        22.81,
         21.77,
         21.05,
         21.01,
         19.44,
         19.76,
-        20.87
+        20.87,
+        19.78
       ],
       "pinned": false
     },
     {
       "symbol": "IREN",
-      "price": 43.67,
-      "change": 3.92,
-      "percent_change": 9.86,
+      "price": 44.76,
+      "change": 3.91,
+      "percent_change": 9.57,
       "sector": "Next-Gen GPU Cloud",
       "analysis_summary": "100% Renewable Compute: Expanding Nvidia H100/H200 GPU cloud services powered by renewable energy.",
       "sparkline": [
-        40.85,
         38.89,
         37.93,
         41.23,
         38.74,
         39.75,
-        43.67
+        43.67,
+        44.76
       ],
       "pinned": false
     },
     {
       "symbol": "CLSK",
-      "price": 12.18,
-      "change": -2.47,
-      "percent_change": -16.86,
+      "price": 11.52,
+      "change": -2.65,
+      "percent_change": -18.7,
       "sector": "Clean Energy Compute",
       "analysis_summary": "Low-Cost Energy: Mining infrastructure efficiency expanding into high-performance compute hosting.",
       "sparkline": [
-        14.17,
         13.5,
         12.75,
         12.3,
         11.59,
         11.52,
-        12.18
+        12.18,
+        11.52
       ],
       "pinned": false
     },
     {
       "symbol": "RIOT",
-      "price": 20.32,
-      "change": -1.1,
-      "percent_change": -5.14,
+      "price": 19.21,
+      "change": -2.35,
+      "percent_change": -10.9,
       "sector": "Digital Infrastructure",
       "analysis_summary": "Power Asset Play: Gigawatt Corsicana facility offering massive power capacity potential for AI compute expansion.",
       "sparkline": [
-        21.56,
         21.5,
         21.21,
         20.52,
         19.4,
         20.24,
-        20.32
+        20.32,
+        19.21
       ],
       "pinned": false
     },
     {
       "symbol": "CIFR",
-      "price": 17.87,
-      "change": -6.29,
-      "percent_change": -26.03,
+      "price": 16.62,
+      "change": -3.76,
+      "percent_change": -18.45,
       "sector": "Power Infrastructure",
       "analysis_summary": "Low-Cost Power PPA: High-efficiency data center sites strategically positioned for HPC conversions.",
       "sparkline": [
-        20.38,
         18.71,
         18.21,
         17.18,
         16.33,
         17.21,
-        17.87
+        17.87,
+        16.62
       ],
       "pinned": false
     },
     {
       "symbol": "BTDR",
-      "price": 9.02,
-      "change": -2.35,
-      "percent_change": -20.67,
+      "price": 8.76,
+      "change": -2.62,
+      "percent_change": -23.02,
       "sector": "ASIC & Data Centers",
       "analysis_summary": "Global Infrastructure: Vertically integrated data center operator scaling cloud hosting operations.",
       "sparkline": [
-        11.38,
         11.06,
         10.52,
         10.88,
         8.69,
         8.69,
-        9.02
+        9.02,
+        8.76
       ],
       "pinned": false
     },
     {
       "symbol": "HUT",
-      "price": 90.77,
-      "change": -21.31,
-      "percent_change": -19.01,
+      "price": 82.95,
+      "change": -18.21,
+      "percent_change": -18.0,
       "sector": "Energy & Data Assets",
       "analysis_summary": "Energy Portfolios: Diversified power generation portfolio powering enterprise computing and AI hosting.",
       "sparkline": [
-        101.16,
         92.76,
         90.65,
         88.59,
         85.66,
         88.78,
-        90.77
+        90.77,
+        82.95
       ],
       "pinned": false
     },
@@ -414,143 +414,143 @@
     },
     {
       "symbol": "VST",
-      "price": 146.68,
-      "change": -9.26,
-      "percent_change": -5.94,
+      "price": 146.4,
+      "change": 3.17,
+      "percent_change": 2.21,
       "sector": "Nuclear Energy & Power Grid",
       "analysis_summary": "Energy Bottleneck Thesis: Nuclear generation capacity under long-term PPA contracts directly powering hyperscaler AI data centers.",
       "sparkline": [
-        143.23,
         140.58,
         141.38,
         140.59,
         142.87,
         144.92,
-        146.68
+        146.68,
+        146.4
       ],
       "pinned": false
     },
     {
       "symbol": "OKLO",
-      "price": 45.13,
-      "change": 3.91,
-      "percent_change": 9.49,
+      "price": 46.45,
+      "change": 3.12,
+      "percent_change": 7.2,
       "sector": "Micro-Nuclear Reactors",
       "analysis_summary": "Clean Energy SMRs: Fast micro-reactors designed to deliver off-grid, 24/7 baseload power for AI data centers.",
       "sparkline": [
-        43.33,
         42.99,
         42.19,
         48.42,
         44.49,
         47.01,
-        45.13
+        45.13,
+        46.45
       ],
       "pinned": false
     },
     {
       "symbol": "BE",
-      "price": 237.16,
-      "change": 18.84,
-      "percent_change": 8.63,
+      "price": 236.22,
+      "change": 8.11,
+      "percent_change": 3.56,
       "sector": "Fuel Cell Power",
       "analysis_summary": "On-Site Generation: Solid oxide fuel cells providing rapid on-site power deployment bypassing utility grid delays.",
       "sparkline": [
-        228.11,
         234.33,
         228.96,
         219.34,
         210.63,
         211.21,
-        237.16
+        237.16,
+        236.22
       ],
       "pinned": false
     },
     {
       "symbol": "CEG",
-      "price": 278.68,
-      "change": 4.97,
-      "percent_change": 1.82,
+      "price": 278.64,
+      "change": 11.39,
+      "percent_change": 4.26,
       "sector": "Nuclear Utility Power",
       "analysis_summary": "Nuclear Giant: Largest US nuclear fleet owner positioned to supply zero-carbon electricity to AI hyperscalers.",
       "sparkline": [
-        267.25,
         265.12,
         261.1,
         269.89,
         270.43,
         278.36,
-        278.68
+        278.68,
+        278.64
       ],
       "pinned": false
     },
     {
       "symbol": "PLTR",
-      "price": 171.04,
-      "change": 45.39,
-      "percent_change": 36.12,
+      "price": 179.01,
+      "change": 16.35,
+      "percent_change": 10.05,
       "sector": "Enterprise AI Platforms",
       "analysis_summary": "AIP Acceleration: Artificial Intelligence Platform driving rapid enterprise conversion and government contract growth.",
       "sparkline": [
-        162.66,
         158.43,
         155.92,
         172.01,
         175.23,
         174.94,
-        171.04
+        171.04,
+        179.01
       ],
       "pinned": false
     },
     {
       "symbol": "SMH",
-      "price": 584.83,
-      "change": 39.37,
-      "percent_change": 7.22,
+      "price": 589.12,
+      "change": 13.41,
+      "percent_change": 2.33,
       "sector": "Semiconductor Index",
       "analysis_summary": "Semicon Index: Primary ETF tracking the core global semiconductor equipment and design leaders.",
       "sparkline": [
-        575.71,
         569.7,
         571.48,
         582.7,
         569.41,
         572.93,
-        584.83
+        584.83,
+        589.12
       ],
       "pinned": false
     },
     {
       "symbol": "BTC-USD",
-      "price": 63403.19,
-      "change": -1477.0,
-      "percent_change": -2.28,
+      "price": 63492.55,
+      "change": -1412.14,
+      "percent_change": -2.18,
       "sector": "Digital Reserve Asset",
       "analysis_summary": "Digital Gold: Anchor digital store-of-value asset and compute network layer.",
       "sparkline": [
-        64880.19,
         64904.69,
         64844.89,
         63910.59,
         63551.88,
-        63403.19
+        63402.43,
+        63492.55
       ],
       "pinned": false
     },
     {
       "symbol": "ETH-USD",
-      "price": 1876.78,
-      "change": -36.5,
-      "percent_change": -1.91,
+      "price": 1887.39,
+      "change": -28.14,
+      "percent_change": -1.47,
       "sector": "Smart Contract Platform",
       "analysis_summary": "Decentralized Settlement: Primary smart contract layer for tokenized real-world assets.",
       "sparkline": [
-        1913.28,
         1915.53,
         1908.68,
         1871.28,
         1881.37,
-        1876.78
+        1878.14,
+        1887.39
       ],
       "pinned": false
     }
