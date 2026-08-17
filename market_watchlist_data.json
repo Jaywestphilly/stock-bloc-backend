@@ -237,9 +237,9 @@
     },
     {
       "symbol": "QBTS",
-      "price": 16.21,
-      "change": -5.18,
-      "percent_change": -24.22,
+      "price": 21.17,
+      "change": -0.22,
+      "percent_change": -1.03,
       "sector": "Quantum Annealing",
       "analysis_summary": "Commercial Quantum: Commercial annealing systems solving complex logistics and optimization problems.",
       "sparkline": [
@@ -522,35 +522,35 @@
     },
     {
       "symbol": "BTC-USD",
-      "price": 62988.04,
-      "change": -922.55,
-      "percent_change": -1.44,
+      "price": 63019.8,
+      "change": -532.08,
+      "percent_change": -0.84,
       "sector": "Digital Reserve Asset",
       "analysis_summary": "Digital Gold: Anchor digital store-of-value asset and compute network layer.",
       "sparkline": [
-        63910.59,
         63551.88,
         63402.43,
         63402.17,
         62975.59,
-        62988.04
+        63024.32,
+        63019.8
       ],
       "pinned": false
     },
     {
       "symbol": "ETH-USD",
-      "price": 1879.15,
-      "change": 7.87,
-      "percent_change": 0.42,
+      "price": 1891.64,
+      "change": 10.27,
+      "percent_change": 0.55,
       "sector": "Smart Contract Platform",
       "analysis_summary": "Decentralized Settlement: Primary smart contract layer for tokenized real-world assets.",
       "sparkline": [
-        1871.28,
         1881.37,
         1878.14,
         1883.99,
         1880.65,
-        1879.15
+        1880.91,
+        1891.64
       ],
       "pinned": false
     }
