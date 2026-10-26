@@ -522,35 +522,35 @@
     },
     {
       "symbol": "BTC-USD",
-      "price": 80849.24,
-      "change": -1004.3,
-      "percent_change": -1.23,
+      "price": 79560.62,
+      "change": -3380.38,
+      "percent_change": -4.08,
       "sector": "Digital Reserve Asset",
       "analysis_summary": "Digital Gold: Anchor digital store-of-value asset and compute network layer.",
       "sparkline": [
-        81853.54,
         82941.0,
         84011.97,
         81311.89,
         81074.19,
-        80849.24
+        80790.84,
+        79560.62
       ],
       "pinned": false
     },
     {
       "symbol": "ETH-USD",
-      "price": 2361.71,
-      "change": -43.11,
-      "percent_change": -1.79,
+      "price": 2303.73,
+      "change": -143.0,
+      "percent_change": -5.84,
       "sector": "Smart Contract Platform",
       "analysis_summary": "Decentralized Settlement: Primary smart contract layer for tokenized real-world assets.",
       "sparkline": [
-        2404.82,
         2446.73,
         2470.77,
         2386.19,
         2384.08,
-        2361.71
+        2355.95,
+        2303.73
       ],
       "pinned": false
     }
